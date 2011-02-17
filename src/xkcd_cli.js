@@ -178,7 +178,7 @@ Filesystem = {
 // No peeking!
 
 TerminalShell.commands['macbeth'] = TerminalShell.commands['Macbeth'] = function(terminal) {
-    terminal.print('\nERROR hjdkghkldsgdjgkldsaj ERROR asdghkljkjajkjdgklajs ABORT ABORT ABORT ERROR asdghkljkjajkjdgklajs ABORT\nSegmentation fault ahig3ijgekgejf NullPointerException askdhfalwekjhwiejweief asdkjhgwekhwekwejhweklwek  ABORT ABORT\nKeyboard Failure kwehgklsxjwopeigjwhasjdhwejahsdjhfweiohadvjbwekjbaeskjhaweuihawekjd\n(...theatre people can be very superstitious, you know) ');
+    terminal.print('\nERROR hjdkghkldsgdjgkldsaj ERROR asdghkljkjajkjdgklajs ABORT ABORT ABORT ERROR asdghkljkjajkjdgklajs ABORT\nSegmentation fault ahig3ijgekgejf NullPointerException askdhfalwekjhwiejweief asdkjhgwekhwekwejhweklwek\nKeyboard Failure kwehgklsxjwopeigjwhasjdhwejahsdjhfweiohadvjbwekjbaeskjhaweuihawekjd ABORT ABORT\n(...theatre people can be very superstitious, you know) ');
 }; 
 TerminalShell.commands['help'] = TerminalShell.commands['hint'] = function(terminal) {
     if(terminal.output.qnum == 0){
