@@ -9,7 +9,7 @@ Use the source, Luke.
 
 Credits
 -------
-* gallow green was written by Louis Fogel (using code from a number of other sources)
+* gallow green was written by Louis Fogel (using code from a number of other sources). Questions and creative decisions were made by Jenny Weinbloom, Kristi Artinian, and Austin Federa
  
 * SJCL is by Emily Stark, Mike Hamburg, Dan Boneh, Stanford University. SJCL is dual-licensed under the GNU GPL version 2.0 or higher, and a
 2-clause BSD license.
